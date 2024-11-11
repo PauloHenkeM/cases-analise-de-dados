@@ -1,11 +1,17 @@
-# Repositório de Cases para Análise de Dados
-Neste repositório, apresentarei cases do meu estudo em análise de dados, seguindo a estrutura abaixo:
+# 📊 Repositório de Cases para Análise de Dados
 
-# Casos
+Bem-vindo ao repositório onde compartilho meus estudos e análises em Data Analytics. Cada case representa um projeto desenvolvido para explorar técnicas e ferramentas de análise de dados.
 
-|     **Caso**     |                                            **Breve Descrição**                                             |                                       **Link**                                       | **Data** |
-|:----------------:|:----------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|:--------:|
-| **Exemplo.LTDA** | Análise financeira para identificar duplicidades de pagamentos/recebimentos e visualizar o fluxo de caixa. | [Link](https://github.com/PauloHenkeM/cases-analise-de-dados/tree/main/Exemplo.LTDA) |          |
+## 🗂️ Casos Disponíveis
 
-# Observação
-Todos os dados contidos neste repositório são gerados de forma aleatória e não representam informações reais ou precisas de empresas existentes. As análises e os insights aqui apresentados são resultado da minha experiência nas áreas de contabilidade, auditoria contábil e perícia contábil, bem como dos estudos sobre linguagens de programação e ferramentas utilizadas.
+| **Caso**         | **Breve Descrição**                                                                                         | **Link**                                                                                       | **Data**      |
+|------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|
+| **Exemplo.LTDA** | Análise financeira para identificar duplicidades de pagamentos/recebimentos e visualizar o fluxo de caixa.  | [Acessar](https://github.com/PauloHenkeM/cases-analise-de-dados/tree/main/Exemplo.LTDA)       | -             |
+
+
+## 📌 Observação Importante
+> Todos os dados neste repositório são **gerados aleatoriamente** e **não representam** informações reais de empresas. As análises são fruto da minha experiência em contabilidade, auditoria e perícia contábil, além de práticas em programação e ferramentas de análise de dados.
+
+---
+
+🔗 **Explore mais** para acompanhar meu desenvolvimento no campo da análise de dados!

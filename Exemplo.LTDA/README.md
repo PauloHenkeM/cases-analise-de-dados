@@ -10,8 +10,8 @@ Desenvolver uma análise financeira deve identificar pagamentos e recebimentos d
 - **Ferramentas utilizadas:** VS Code, Power BI e Git Hub. 
 
 # Links
-- [Movimentações financeias]()
-- Plano de contas
+- [Movimentações financeias](https://raw.githubusercontent.com/PauloHenkeM/cases-analise-de-dados/refs/heads/main/Exemplo.LTDA/movimentacoes_financeiras.csv)
+- [Plano de contas](https://raw.githubusercontent.com/PauloHenkeM/cases-analise-de-dados/refs/heads/main/Exemplo.LTDA/plano_de_contas.csv)
 - Dashboard
 - [Análise](https://github.com/PauloHenkeM/cases-analise-de-dados/blob/main/Exemplo.LTDA/Analise.md)
 - [Código para gerar BD](https://github.com/PauloHenkeM/cases-analise-de-dados/blob/main/Exemplo.LTDA/Codigo.py)

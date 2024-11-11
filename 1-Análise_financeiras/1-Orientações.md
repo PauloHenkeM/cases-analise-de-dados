@@ -1,5 +1,9 @@
-# Código em python para gerar o BD:
+# Informações
+- Linguagem: Python
+- Versão: 3.0
+- Sitema operacional: Debian
 
+# Código em python para gerar o base de dados
 ```python
 import pandas as pd
 import numpy as np
@@ -48,7 +52,7 @@ df = pd.DataFrame({
 })
 
 # Exporta para CSV
-output_path = "/home/paulo/Ondedrive/00.Eu/movimentacoes_financeiras_exemplo.csv"
+output_path = "/home/paulo/caminho/BD.csv"
 df.to_csv(output_path, index=False, sep=";", encoding="utf-8-sig")
 
 output_path

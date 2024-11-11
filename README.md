@@ -3,8 +3,7 @@ Neste repositório, apresentarei cases do meu estudo em análise de dados, segui
 
 - Pasta: Caso de Estudo
   - 1-Orientação.md: Arquivo em Markdown com informações detalhando o racional do projeto
-  - 2-BD.py: Código em Python utilizado para gerar a base de dados
-  - 3-BD.csv: Base de dados gerada aleatoriamente
+  - 2-BD.csv: Base de dados gerada aleatoriamente
   - 3-Dashboard: Link para o painel que apresenta a análise realizada no Power BI
   - 3.1-Analise.md: Arquivo em Markdown com a análise detalhada
 

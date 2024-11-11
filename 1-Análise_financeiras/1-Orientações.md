@@ -1,9 +1,13 @@
-# Informações
-- Linguagem: Python
-- Versão: 3.0
-- Sitema operacional: Debian
 
-# Código em python para gerar o base de dados
+# Objetivo
+Desenvolver uma análise financeira que permita identificar pagamentos e recebimentos duplicados, bem como possibilitar a visualização do fluxo de caixa.
+
+# Informações
+- **Linguagem de Programação**: Python  
+- **Versão**: 3.11.2  
+- **Sistema Operacional**: Debian 12
+
+# Código Python para Geração da Base de Dados
 ```python
 import pandas as pd
 import numpy as np

@@ -6,11 +6,11 @@ Neste repositório, apresentarei cases do meu estudo em análise de dados, segui
   - 2-BD.csv = Base de dados gerada aleatoriamente;
   - 3-Analise.md = Arquivo em Markdown com a análise detalhada
 
-**Observação:** Todos os dados utilizados neste repositório são gerados de forma aleatória e não representam informações reais ou fidedignas de empresas existentes.
+**Observação:** Todos os dados contidos neste repositório são gerados de forma aleatória e não representam informações reais ou precisas de empresas existentes. As análises e os insights aqui apresentados são resultado da minha experiência nas áreas de contabilidade, auditoria contábil e perícia contábil, bem como dos estudos sobre linguagens de programação e ferramentas utilizadas.
 
 # Casos
 
-|     Caso     |                                              Breve Descrição                                               |                                               Link                                               |
-|:------------:|:----------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------:|
-| Exemplo.LTDA | Análise financeira para identificar duplicidades de pagamentos/recebimentos e visualizar o fluxo de caixa. | [Link](https://github.com/PauloHenkeM/cases-analise-de-dados/tree/main/An%C3%A1lise_financeiras) |
-|              |                                                                                                            |                                                                                                  |
+|     **Caso**     |                                            **Breve Descrição**                                             |                                       **Link**                                       |
+|:----------------:|:----------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
+| **Exemplo.LTDA** | Análise financeira para identificar duplicidades de pagamentos/recebimentos e visualizar o fluxo de caixa. | [Link](https://github.com/PauloHenkeM/cases-analise-de-dados/tree/main/Exemplo.LTDA) |
+

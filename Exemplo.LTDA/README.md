@@ -7,9 +7,10 @@ Desenvolver uma análise financeira deve identificar pagamentos e recebimentos d
 - **Versão**: 3.11.2  
 - **Ambiente:** CT no Proxmox
 - **Sistema Operacional**: Debian 12
+- **Ferramentas utilizadas:** VS Code, Power BI e Git Hub. 
 
 # Links
 - [BD](https://raw.githubusercontent.com/PauloHenkeM/cases-analise-de-dados/refs/heads/main/Exemplo.LTDA/BD.csv)
 - Dashboard
 - [Análise](https://github.com/PauloHenkeM/cases-analise-de-dados/blob/main/Exemplo.LTDA/Analise.md)
-- Código para gerar BD
+- [Código para gerar BD](https://github.com/PauloHenkeM/cases-analise-de-dados/blob/main/Exemplo.LTDA/Codigo.py)

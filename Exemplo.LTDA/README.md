@@ -9,7 +9,9 @@ Desenvolver uma análise financeira deve identificar pagamentos e recebimentos d
 - **Sistema Operacional**: Debian 12
 
 # Links
+- [BD](https://raw.githubusercontent.com/PauloHenkeM/cases-analise-de-dados/refs/heads/main/Exemplo.LTDA/BD.csv)
 - Dashboard
+- [Análise](https://github.com/PauloHenkeM/cases-analise-de-dados/blob/main/Exemplo.LTDA/Analise.md)
 
 # Código Python para Geração da Base de Dados
 ```python

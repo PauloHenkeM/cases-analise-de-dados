@@ -2,12 +2,8 @@
 
 Este projeto realiza uma análise financeira detalhada para identificar pagamentos e recebimentos duplicados, além de visualizar o fluxo de caixa. O objetivo é fornecer informações financeiras confiáveis para facilitar a tomada de decisões.
 
----
-
 ## 🚀 Objetivo do Projeto
 Identificar duplicatas e discrepâncias em transações financeiras, com visualização clara de entradas e saídas, permitindo um controle mais eficiente do fluxo de caixa.
-
----
 
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem de Programação:** Python
@@ -15,8 +11,6 @@ Identificar duplicatas e discrepâncias em transações financeiras, com visuali
 - **Ambiente:** CT no Proxmox
 - **Sistema Operacional:** Debian 12
 - **Ferramentas:** VS Code, Power BI e GitHub
-
----
 
 ## 📂 Estrutura do Projeto
 1. **Scripts e Código**
@@ -30,7 +24,6 @@ Identificar duplicatas e discrepâncias em transações financeiras, com visuali
    - [Análise Completa](https://github.com/PauloHenkeM/cases-analise-de-dados/blob/main/Exemplo.LTDA/Analise.md)
    - [Dashboard Interativo (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiZGMxMGE2OTUtNmVlYy00Y2E4LTg3NTktNTk2OTQ1YWY5NTBiIiwidCI6IjUyMWY2MjVjLTc2MjAtNGRlNy05ODEzLTQ1ZDYwY2VlM2M5OSJ9)
 
----
 
 ## 📊 Visão Geral do Dashboard
 O dashboard criado no Power BI fornece uma visão completa das transações financeiras, destacando:
@@ -40,7 +33,6 @@ O dashboard criado no Power BI fornece uma visão completa das transações fina
 
 > **Nota:** Acesse o [dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiZGMxMGE2OTUtNmVlYy00Y2E4LTg3NTktNTk2OTQ1YWY5NTBiIiwidCI6IjUyMWY2MjVjLTc2MjAtNGRlNy05ODEzLTQ1ZDYwY2VlM2M5OSJ9) para explorar os dados detalhadamente.
 
----
 
 ## 📌 Como Utilizar este Projeto
 1. Clone o repositório:

@@ -4,9 +4,9 @@ Bem-vindo ao repositório onde compartilho meus estudos e análises em Data Anal
 
 ## 🗂️ Casos Disponíveis
 
-| **Caso**         | **Breve Descrição**                                                                                         | **Link**                                                                                       | **Data**      |
-|------------------|-------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|---------------|
-| **Exemplo.LTDA** | Análise financeira para identificar duplicidades de pagamentos/recebimentos e visualizar o fluxo de caixa.  | [Acessar](https://github.com/PauloHenkeM/cases-analise-de-dados/tree/main/Exemplo.LTDA)       | -             |
+| **Caso**         | **Breve Descrição**                                                                                        | **Link**                                                                                | **Status** | **Data** |
+| ---------------- | ---------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------- | -------- |
+| **Exemplo.LTDA** | Análise financeira para identificar duplicidades de pagamentos/recebimentos e visualizar o fluxo de caixa. | [Acessar](https://github.com/PauloHenkeM/cases-analise-de-dados/tree/main/Exemplo.LTDA) | Andamento  | -        |
 
 
 ## 📌 Observação Importante

@@ -21,8 +21,7 @@ Identificar duplicatas e discrepâncias em transações financeiras, com visuali
    - [Plano de Contas (CSV)](https://raw.githubusercontent.com/PauloHenkeM/cases-analise-de-dados/refs/heads/main/Exemplo.LTDA/plano_de_contas.csv)
 
 3. **Documentação e Análise**
-   - [Análise Completa](https://github.com/PauloHenkeM/cases-analise-de-dados/blob/main/Exemplo.LTDA/Analise.md)
-   - [Dashboard Interativo (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiZGMxMGE2OTUtNmVlYy00Y2E4LTg3NTktNTk2OTQ1YWY5NTBiIiwidCI6IjUyMWY2MjVjLTc2MjAtNGRlNy05ODEzLTQ1ZDYwY2VlM2M5OSJ9)
+   - [Dashboard Interativo (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiZGMxMGE2OTUtNmVlYy00Y2E4LTg3NTktNTk2OTQ1YWY5NTBiIiwidCI6IjUyMWY2MjVjLTc2MjAtNGRlNy05ODEzLTQ1ZDYwY2VlM2M5OSJ9&pageName=253e1e8b52ff65ebd63f)
 
 
 ## 📊 Visão Geral do Dashboard

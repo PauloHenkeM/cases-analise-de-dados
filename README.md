@@ -13,4 +13,5 @@ Bem-vindo ao repositório onde compartilho meus estudos e análises em Data Anal
 > Todos os dados neste repositório são **gerados aleatoriamente** e **não representam** informações reais de empresas. As análises são fruto da minha experiência em contabilidade, auditoria e perícia contábil, além de práticas em programação e ferramentas de análise de dados.
 
 ---
+
 🔗 **Explore mais** para acompanhar meu desenvolvimento no campo da análise de dados!

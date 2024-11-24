@@ -1,8 +1,5 @@
-# 📊 Análise Financeira Automatizada
+## 📊 Objetivo do Projeto
 Este projeto realiza uma análise financeira detalhada para identificar pagamentos e recebimentos duplicados, além de visualizar o fluxo de caixa. O objetivo é fornecer informações financeiras confiáveis para facilitar a tomada de decisões.
-
-## 🚀 Objetivo do Projeto
-Identificar duplicatas e discrepâncias em transações financeiras, com visualização clara de entradas e saídas, permitindo um controle mais eficiente do fluxo de caixa.
 
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem de Programação:** Python
@@ -27,9 +24,9 @@ O dashboard criado no Power BI fornece uma visão completa das transações fina
 
 
 ## 📌 Como Utilizar este Projeto
-1. Clone o repositório:
+Clone o repositório:
    ```bash
    git clone https://github.com/PauloHenkeM/cases-analise-de-dados.git
    ```
 
-   > Todos os dados neste repositório são **gerados aleatoriamente** e **não representam** informações reais de empresas. As análises são fruto da minha experiência em contabilidade, auditoria e perícia contábil, além de práticas em programação e ferramentas de análise de dados.
+> Todos os dados neste repositório são **gerados aleatoriamente** e **não representam** informações reais de empresas. As análises são fruto da minha experiência em contabilidade, auditoria e perícia contábil, além de práticas em programação e ferramentas de análise de dados.

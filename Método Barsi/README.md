@@ -1,5 +1,5 @@
-# 📊 Análise Financeira Automatizada
-Este projeto realiza uma análise financeira detalhada para identificar pagamentos e recebimentos duplicados, além de visualizar o fluxo de caixa. O objetivo é fornecer informações financeiras confiáveis para facilitar a tomada de decisões.
+# 📊 Explicação
+Este projeto visa utilizar python para coletar dados da B3 para analise fundamentalista baseada no Método Barsi de investir.
 
 ## 🚀 Objetivo do Projeto
 Identificar duplicatas e discrepâncias em transações financeiras, com visualização clara de entradas e saídas, permitindo um controle mais eficiente do fluxo de caixa.

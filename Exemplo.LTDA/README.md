@@ -1,5 +1,5 @@
 ## 📊 Objetivo do Projeto
-Este projeto realiza uma análise financeira detalhada para identificar pagamentos e recebimentos duplicados, além de visualizar o fluxo de caixa. O objetivo é fornecer informações financeiras confiáveis para facilitar a tomada de decisões.
+Este projeto realiza uma análise financeira minuciosa para identificar possíveis duplicidades em pagamentos e recebimentos, além de oferecer uma visão clara do fluxo de caixa. O propósito é fornecer dados financeiros confiáveis, apoiando a tomada de decisões estratégicas de maneira eficiente.
 
 ## 🛠️ Tecnologias Utilizadas
 - **Linguagem de Programação:** Python
@@ -26,7 +26,7 @@ O dashboard criado no Power BI fornece uma visão completa das transações fina
 ## 📌 Como Utilizar este Projeto
 Clone o repositório:
    ```bash
-   git clone https://github.com/PauloHenkeM/cases-analise-de-dados.git
+   git clone https://github.com/PauloHenkeM/cases-analise-de-dados/tree/main/Exemplo.LTDA
    ```
 
 > Todos os dados neste repositório são **gerados aleatoriamente** e **não representam** informações reais de empresas. As análises são fruto da minha experiência em contabilidade, auditoria e perícia contábil, além de práticas em programação e ferramentas de análise de dados.
